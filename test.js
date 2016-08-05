@@ -58,3 +58,9 @@ test('Get ID by German name', testIDs, 'de', [
 	'Bidifas',
 	'Volcanion'
 ]);
+
+test('Get ID by Russin name', testIDs, 'ru', [
+	'Бульбазавр',
+	'Бибарел',
+	'Вулканьон'
+]);
